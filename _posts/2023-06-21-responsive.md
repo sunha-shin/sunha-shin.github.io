@@ -1,4 +1,4 @@
 ---
 layout: single
-title:  "What is a responsive web design?"
+title:  "A responsive web design"
 ---
