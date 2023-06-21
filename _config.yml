@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Summer's blog"
+title                    : "Sunha's blog"
 title_separator          : "|"
 subtitle                 : ""
-name                     : "Summer"
+name                     : "Sunha"
 description              : "A aspiring software engineer"
 url                      : "https://sunha-shin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
